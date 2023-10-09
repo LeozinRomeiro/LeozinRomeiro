@@ -1,6 +1,6 @@
 # Await developers
 
-Técnico em suporte da ATAK sistemas enquanto aluno de análise e desenvolvimento de sistemas no período noturno no SENAI CTM em contra turno aperfeiçoou minhas habilidades em C#, Java Script, CSS, T-SQL, entre outras diante de minha curiosidade. Atuou com o objetivo vigente de conquistar uma oportunidade como júnior na área de desenvolvimento de sistemas para junto a equipe exercer meu conhecimento obtido, como finalidade aprimorar minha experiência na área e suceder no sucesso e crescimento coletivo da empresa.
+Meu nome é Leonardo Romeiro, sou técnico em suporte da ATAK sistemas enquanto aluno de análise e desenvolvimento de sistemas no período noturno no SENAI CTM em contra turno aperfeiçoou minhas habilidades em C#, Java Script, CSS, T-SQL, entre outras diante de minha curiosidade. Atuou com o objetivo vigente de conquistar uma oportunidade como júnior na área de desenvolvimento de sistemas para junto a equipe exercer meu conhecimento obtido, como finalidade aprimorar minha experiência na área e suceder no sucesso e crescimento coletivo da empresa.
 
 ## Mais sobre mim
 
@@ -30,10 +30,6 @@ object **Leonardo** {
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinromeiro&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=leozinromeiro&show_icons=true&theme=dracula&line_height=27" alt="**Leonardo Romeiro** github stats"/>
 </a>
 
 [linkedin]: https://www.linkedin.com/in/LeozinRomeiro/
