@@ -1,6 +1,6 @@
-# Oie devs 👋
+# Await developers
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Técnico em suporte da ATAK sistemas enquanto aluno de análise e desenvolvimento de sistemas no período noturno no SENAI CTM em contra turno aperfeiçoou minhas habilidades em C#, Java Script, CSS, T-SQL, entre outras diante de minha curiosidade. Atuou com o objetivo vigente de conquistar uma oportunidade como júnior na área de desenvolvimento de sistemas para junto a equipe exercer meu conhecimento obtido, como finalidade aprimorar minha experiência na área e suceder no sucesso e crescimento coletivo da empresa.
 
 ## Mais sobre mim
 
