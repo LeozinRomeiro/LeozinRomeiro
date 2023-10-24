@@ -9,9 +9,8 @@ Meu nome é Leonardo Romeiro, sou técnico em suporte da ATAK sistemas enquanto 
 ```kotlin
 object **Leonardo** {
  val name = "Leonardo Romeiro"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
-
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val platform = "ASP.NET, Xamarin"
+ val tools = "GitHub, Docker, PostMan, Visual Studio, Visual Studio Code"
  val languages = listOf("C#", "Python", "JavaScript", "PHP")
 
 }
