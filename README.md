@@ -19,12 +19,12 @@ object **Leonardo** {
 ## Linguagens e ferramentas
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></div>
-  <div><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></div>
-  <div><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></div>
-  <div><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></div>
-  <div><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></div>
-  <div><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"></div>
+  <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img height="80" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img height="80" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+  <img height="80" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
 </div>
 
 <a href="https://dotnet.microsoft.com/" target="_blank" style="display: flex; align-items: center;">
@@ -43,7 +43,7 @@ object **Leonardo** {
   <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </div>
