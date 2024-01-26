@@ -18,7 +18,7 @@ object **Leonardo** {
 
 ## Linguagens e ferramentas
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></div>
   <div><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></div>
   <div><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></div>
@@ -26,6 +26,32 @@ object **Leonardo** {
   <div><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></div>
   <div><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"></div>
 </div>
+
+<a href="https://dotnet.microsoft.com/" target="_blank" style="display: flex; align-items: center;">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet">
+</a>
+
+<div style="display: flex; align-items: center;">
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+</div>
+
+<a href="https://www.w3schools.com/cs/" target="_blank" style="display: flex; align-items: center;">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp">
+</a>
+
+<div style="display: flex; align-items: center;">
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img height="80" src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg">
+</div>
+
 
 
 
