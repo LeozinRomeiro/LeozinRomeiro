@@ -1,6 +1,6 @@
 # Await developers
 
-Meu nome é Leonardo Romeiro, sou técnico em suporte da ATAK sistemas enquanto aluno de análise e desenvolvimento de sistemas no período noturno no SENAI CTM em contra turno aperfeiçoou minhas habilidades em C#, Java Script, CSS, T-SQL, entre outras diante de minha curiosidade. Atuou com o objetivo vigente de conquistar uma oportunidade como júnior na área de desenvolvimento de sistemas para junto a equipe exercer meu conhecimento obtido, como finalidade aprimorar minha experiência na área e suceder no sucesso e crescimento coletivo da empresa.
+Técnico em suporte da ATAK sistemas enquanto aluno de análise e desenvolvimento de sistemas no período noturno no SENAI CTM em contra turno aperfeiçoou minhas habilidades em C# com web em principal usando ASP.NET, Blazor e Razor Pages, mas já desenvolvi com Windows Forms e Xamarin. Resultando em pratica com Java Script, CSS e HTML básico e total fundamentos de SQL Server(Conhecimento em T-SQL), pois utilizado o Entity Framework. Já tenho aptidão usando Visual Studio (principalmente), Visual Studio Code, Postman, Git, GitHub, Docker, Azure Data Studio e SSMS. Atuou com o objetivo vigente de conquistar uma oportunidade como júnior na área de desenvolvimento de sistemas para junto a equipe exercer meu conhecimento obtido, como finalidade aprimorar minha experiência na área e suceder no sucesso e crescimento coletivo da empresa.
 
 ## Mais sobre mim
 
