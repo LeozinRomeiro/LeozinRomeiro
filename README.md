@@ -7,13 +7,30 @@ Técnico em suporte da ATAK sistemas enquanto aluno de análise e desenvolviment
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```CSharp
-object **Leonardo** {
- val name = "Leonardo Romeiro"
- val platform = "ASP.NET, Xamarin"
- val tools = "GitHub, Docker, PostMan, Visual Studio, Visual Studio Code, Azure Data Studio "
- val languages = listOf("C#", "Python", "JavaScript", "PHP", "T-SQL")
-
+var name = new Name("Leonardo","Romeiro")
+var frameworks = new List<Framework>
+{
+    new Framework("ASP.NET MVC"),
+    new Framework("Blazor"),
+    new Framework("Razor Pages"),
+    new Framework("API RESTful"),
+    new Framework("Xamarin")
+};
+var tools = new List<Tool>
+{
+    new Tool("GitHub"),
+    new Tool("Docker"),
+    new Tool("PostMan"),
+    new Tool("Visual Studio"),
+    new Tool("Visual Studio Code")
+    new Tool("Azure Data Studio")
+};
+var languages = new List<Language>
+{
+    new Language("C#")
+    new Language("SQL Server")
 }
+var developer = new Devoloper(name, framewoork, tools, languages)
 ```
 
 ## Tools with Skill
