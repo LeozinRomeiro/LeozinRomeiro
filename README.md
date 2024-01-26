@@ -21,6 +21,10 @@ object **Leonardo** {
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
+
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -35,4 +39,4 @@ object **Leonardo** {
 
 ## Rede sociais
 
-👔 [LinkedIn][linkedin]
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"> [LinkedIn][linkedin]
