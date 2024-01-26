@@ -18,6 +18,18 @@ object **Leonardo** {
 
 ## Linguagens e ferramentas
 
+<table>
+  <tr>
+    <td><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></td>
+    <td><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></td>
+    <td><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></td>
+    <td><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></td>
+    <td><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></td>
+    <td><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"></td>
+  </tr>
+</table>
+
+
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
