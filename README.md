@@ -7,7 +7,7 @@ Técnico em suporte da ATAK sistemas enquanto aluno de análise e desenvolviment
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```CSharp
-var name = new Name("Leonardo","Romeiro")
+var name = new Name("Leonardo","Romeiro");
 var frameworks = new List<Framework>
 {
     new Framework("ASP.NET MVC"),
@@ -22,15 +22,15 @@ var tools = new List<Tool>
     new Tool("Docker"),
     new Tool("PostMan"),
     new Tool("Visual Studio"),
-    new Tool("Visual Studio Code")
+    new Tool("Visual Studio Code"),
     new Tool("Azure Data Studio")
 };
 var languages = new List<Language>
 {
-    new Language("C#")
+    new Language("C#"),
     new Language("SQL Server")
-}
-var developer = new Devoloper(name, framewoork, tools, languages)
+};
+var developer = new Devoloper(name, framewoork, tools, languages);
 ```
 
 ## Tools with Skill
